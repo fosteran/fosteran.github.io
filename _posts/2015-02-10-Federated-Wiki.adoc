@@ -1,0 +1,8 @@
+= Federated Wiki
+:published_at 2015-02-10
+
+This is the first blog post for Andy Foster of UME at Indiana University School of Medicine.
+
+My first focus will be the exploration of Small Federated Wiki for a specific virtual microscopy project.
+
+Am looking forward to this.
