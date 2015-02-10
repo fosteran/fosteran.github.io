@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "fosteran",
-    "repositoryName": "fosteran.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"fosteran","repositoryName":"fosteran.github.io","branch":"master"},"site":{"title":"UME Technical Blog","description":"Focuses on various technical aspects of UME at Indiana University School of Medicine","postsPerPage":"5","url":"http://fosteran.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"http://fosteran.github.io/themes/Casper"}}
